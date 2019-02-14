@@ -19,6 +19,8 @@ DCF-77 at 77500 Hz           The standard time and frequency signal from Mainfli
 Polskie Radio 1 at 225 kHz   A broadcasting station from Poland
 Italy RAI 1 at 900 kHz        A broadcasting station from Italy
 
+You can find the back in the mp3/ directory.
+
  
 by Alberto I2PHD, i2phd (at) weaksignals.com
 
